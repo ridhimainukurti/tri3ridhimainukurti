@@ -1,4 +1,4 @@
-### Welcome to Ridhima's Study Guide 
+# Welcome to Ridhima's Study Guide 
 
 ## Tech Talk 1 
 
