@@ -1,1 +1,1 @@
-# tri3ridhimainukurti
+# Ridhima Inukurti's Personal 
