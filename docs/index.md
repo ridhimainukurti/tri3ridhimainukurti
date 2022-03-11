@@ -1,6 +1,6 @@
 # Welcome to Ridhima's Study Guide 
-
-## Tech Talk 1 
+## Test Prep Plans 
+## Tech Talk Note Links 
 
 
 
